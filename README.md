@@ -1,4 +1,4 @@
-# John Doe's Portfolio Website
+# Joseph Muthui's Portfolio Website
 
 ![Portfolio Screenshot](assets/screenshot.jpg)
 
