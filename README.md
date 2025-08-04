@@ -28,7 +28,7 @@ A responsive, visually appealing personal portfolio website built with pure HTML
 
 ## Live Demo
 
-[View on GitHub Pages](https://yourusername.github.io/portfolio)
+[View on GitHub Pages](https://jose-mn.github.io/MAIN/)
 
 ## License
 
