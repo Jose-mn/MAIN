@@ -1,6 +1,6 @@
 # Joseph Muthui's Portfolio Website
 
-![Portfolio Screenshot](screenshot.jpg)
+![Portfolio Screenshot](assets/screenshot.jpg)
 
 A responsive, visually appealing personal portfolio website built with pure HTML and CSS. This website showcases my skills, education, interests, and projects in a clean, professional layout.
 
